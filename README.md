@@ -38,3 +38,7 @@ The visualizations present in the dashboard may include:
 **7. Conclusion:**
 In conclusion, the IPL Analysis dashboard provides valuable insights into various facets of the Indian Premier League, offering stakeholders a deeper understanding of team dynamics, player performances, and match outcomes. By leveraging the insights gleaned from this analysis, teams, sponsors, and fans can make informed decisions and enhance their IPL experience.
 
+
+![IPL analysis](https://github.com/Poojamaske24/IPL-Analysis---Tableau/assets/153622264/a5dda52c-e5ae-4a49-912a-a56ebdd0bfad)
+
+
